@@ -1,5 +1,7 @@
 # minishell
 
+Group project: [Arina](https://github.com/cvenkman) & [Aidar](https://github.com/coder-logg)
+
 ### Compiling and executing
 `make`
 
