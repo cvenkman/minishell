@@ -2,6 +2,7 @@
 
 ### Compiling and executing
 `make`
+
 `./so_long maps/map2.ber`
 
 * Have a working history.
